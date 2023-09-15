@@ -1,4 +1,4 @@
-<p align="center">🚀 Apaixonado por criar soluções técnicas robustas e escaláveis. Estou sempre pronto para encarar novos desafios e aprimorar minhas habilidades em <strong>.NET/C#</strong>.
+<p align="center">🚀 Impulsionando inovações tecnológicas com paixão e habilidade em <strong>.NET/C#</strong>.
 
 &nbsp;
 &nbsp;
