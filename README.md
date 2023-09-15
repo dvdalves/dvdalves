@@ -49,6 +49,6 @@
 
 ### Vamos Conectar?
 <!-- 🌐 [Portfolio](https://seuwebsite.com) -->
-- 💼 [LinkedIn]([https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/dvdalves/))
+- 💼 [LinkedIn](https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/dvdalves/)
 - 📸 [Instagram]([https://twitter.com/seutwitter](https://www.instagram.com/davidsevla/)https://www.instagram.com/davidsevla/)
 - 📧 Email: seuemail@email.com
