@@ -1,54 +1,57 @@
 <img align="center" style="margin-bottom:20px" width=100% src="https://github.com/seuusuario/seuusuario/assets/caminho_para_a_sua_imagem_personalizada.jpg" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">🔥 Adoro resolver desafios complexos com tecnologia. <br><br> Como desenvolvedor <strong>.NET/C#</strong>, estou sempre em busca de novas descobertas para criar soluções de alta qualidade. Atualmente, sou um desenvolvedor <strong>de nível intermediário</strong> com foco em desenvolvimento back-end e API.</p>&nbsp;
+<p align="center">🚀 Apaixonado por criar soluções técnicas robustas e escaláveis. Estou sempre pronto para encarar novos desafios e aprimorar minhas habilidades em <strong>.NET/C#</strong>. Como um <strong>desenvolvedor diligente e meticuloso</strong>, estou pronto para contribuir e criar projetos inovadores.</p>&nbsp;
 
-<div align="center" style="margin-bottom:20px">
-<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=seuusuario&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-seuusuario.vercel.app/api/top-langs/?username=seuusuario&show_icons=true&theme=radical&layout=compact" />
-</div>
- 
 &nbsp;
 &nbsp;
 
-## Minhas Competências
+## Minhas Principais Habilidades
 
-#### Stack Principal:
+#### Técnicas:
 
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![DotNET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 ![SQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![MVC](https://img.shields.io/badge/MVC-5C2D91?style=for-the-badge&logoColor=white)&nbsp;
+![WebAPI](https://img.shields.io/badge/WebAPI_Rest-5C2D91?style=for-the-badge&logoColor=white)&nbsp;
+![UnitTests](https://img.shields.io/badge/Testes_de_Unidades-5C2D91?style=for-the-badge&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
-<img src="https://raw.githubusercontent.com/seuusuario/seuusuario/master/image/caminho_para_a_sua_ilustracao.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Ilustração do seu perfil">
+#### Frameworks e Bibliotecas:
 
-#### Stack Secundária:
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![EntityFramework](https://img.shields.io/badge/Entity_Framework-5C2D91?style=for-the-badge&logoColor=white)&nbsp;
+![Identity](https://img.shields.io/badge/Identity-5C2D91?style=for-the-badge&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
+![Scrum](https://img.shields.io/badge/Scrum-5C2D91?style=for-the-badge&logoColor=white)&nbsp;
 
-<!-- Inclua as tecnologias que você também tem habilidades, mas que não são seu principal foco -->
+#### Boas Práticas:
 
-#### Estudando no Momento:
+![SOLID](https://img.shields.io/badge/SOLID-5C2D91?style=for-the-badge&logoColor=white)&nbsp;
+![CleanArchitecture](https://img.shields.io/badge/Clean_Architecture-5C2D91?style=for-the-badge&logoColor=white)&nbsp;
+![CleanCode](https://img.shields.io/badge/Clean_Code-5C2D91?style=for-the-badge&logoColor=white)&nbsp;
+![DesignPatterns](https://img.shields.io/badge/Design_Patterns-5C2D91?style=for-the-badge&logoColor=white)&nbsp;
+![DDD](https://img.shields.io/badge/Domain_Driven_Design-5C2D91?style=for-the-badge&logoColor=white)&nbsp;
+![TDD](https://img.shields.io/badge/Test_Driven_Development-5C2D91?style=for-the-badge&logoColor=white)&nbsp;
 
-<!-- Inclua as tecnologias que você está estudando no momento -->
-
-#### Bancos de Dados:
-
-<!-- Inclua os bancos de dados que você tem experiência -->
-
-#### Ferramentas de Trabalho:
+#### Ferramentas:
 
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
+![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)&nbsp;
 
-&nbsp;
-&nbsp;
+---
 
-## Contatos:
-
-<div> 
-  <!-- Inclua os links para suas redes sociais e contatos aqui -->
-</div>&nbsp;&nbsp;
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5C2D91&height=120&section=footer"/>
+### Vamos Conectar?
+- 🌐 [Portfolio](https://seuwebsite.com)
+- 💼 [LinkedIn](https://linkedin.com/in/seuperfil)
+- 🐦 [Twitter](https://twitter.com/seutwitter)
+- 📧 Email: seuemail@email.com
