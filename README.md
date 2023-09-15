@@ -1,7 +1,4 @@
-<img align="center" style="margin-bottom:20px" width=100% src="https://github.com/seuusuario/seuusuario/assets/caminho_para_a_sua_imagem_personalizada.jpg" />
-&nbsp;&nbsp;&nbsp;
-
-<p align="center">🚀 Apaixonado por criar soluções técnicas robustas e escaláveis. Estou sempre pronto para encarar novos desafios e aprimorar minhas habilidades em <strong>.NET/C#</strong>. Como um <strong>desenvolvedor diligente e meticuloso</strong>, estou pronto para contribuir e criar projetos inovadores.</p>&nbsp;
+<p align="center">🚀 Apaixonado por criar soluções técnicas robustas e escaláveis. Estou sempre pronto para encarar novos desafios e aprimorar minhas habilidades em <strong>.NET/C#</strong>.
 
 &nbsp;
 &nbsp;
@@ -51,7 +48,7 @@
 ---
 
 ### Vamos Conectar?
-- 🌐 [Portfolio](https://seuwebsite.com)
-- 💼 [LinkedIn](https://linkedin.com/in/seuperfil)
-- 🐦 [Twitter](https://twitter.com/seutwitter)
+<!-- 🌐 [Portfolio](https://seuwebsite.com) -->
+- 💼 [LinkedIn]([https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/dvdalves/))
+- 📸 [Instagram]([https://twitter.com/seutwitter](https://www.instagram.com/davidsevla/)https://www.instagram.com/davidsevla/)
 - 📧 Email: seuemail@email.com
