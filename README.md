@@ -59,5 +59,3 @@
 
 <!-- 🌐 [Portfolio](https://seuwebsite.com) -->
 - 💼 [LinkedIn](https://www.linkedin.com/in/dvdalves/)
-- 📧 [E-mail](mailto:david.a0595@gmail.com)
-
