@@ -56,6 +56,8 @@
 ---
 
 ### Vamos Conectar?
+
 <!-- 🌐 [Portfolio](https://seuwebsite.com) -->
 - 💼 [LinkedIn](https://www.linkedin.com/in/dvdalves/)
-- 📸 [Instagram](https://www.instagram.com/davidsevla/)
+- 📧 [E-mail](mailto:david.a0595@gmail.com)
+
