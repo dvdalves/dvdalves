@@ -1,7 +1,7 @@
 
 
 
-💻- Desenvolvedor Backend<strong>.NET/C#</strong>.
+💻- Desenvolvedor Backend<strong>.NET/C#</strong> e entusiata de Web3
 
 🌐- Habilidades em desenvolvimento web, incluindo HTML, CSS, JavaScript, e frameworks como jQuery e Bootstrap.<br>
 
