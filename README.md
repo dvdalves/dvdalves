@@ -53,6 +53,7 @@
 
 
 ## Planos de Estudos Futuro
+![MAUI](https://img.shields.io/badge/-MAUI-0C395E?style=flat-square&logo=.net&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -63,8 +64,7 @@
 ![Web3](https://img.shields.io/badge/-Web3-8B57D9?style=flat-square&logo=ethereum&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
 
-### Outras Conexões
+### Vamos nos conectar?
 <div>
   <a href="https://www.linkedin.com/in/dvdalves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.skoob.com.br/perfil/dvdalves" target="_blank"><img src="https://camo.githubusercontent.com/ea99a847979c6e5a8a7b91dfd890df03533221c82214fe0ee58e0a53f9d77500/68747470733a2f2f626b2e6962786b2e636f6d2e62722f323031352f342f70726f6772616d61732f39363136303731312e706e67" style="width:30px; height:30px;"/></a>
 </div>
