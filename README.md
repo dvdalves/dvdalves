@@ -1,20 +1,15 @@
-💻- Desenvolvedor Backend<strong>.NET/C#</strong> dedicado ao aprimoramento constante, apaixonado por Web3.
+💻- Desenvolvedor Backend<strong>.NET/C#</strong>
 
-📊- Experiência em bancos de dados relacionais, SQL Server, SQLite, PostgreSQL e MySQL, e não relacionais, como MongoDB.
+📊- Experiência em bancos de dados relacionais, SQL Server, SQLite, e não relacionais, MongoDB.
 
-🌐- Habilidades em desenvolvimento frontend, incluindo HTML, CSS, JavaScript, e frameworks como jQuery e Bootstrap.<br>
+🌐- Habilidades em desenvolvimento frontend, incluindo HTML, CSS, JavaScript, e bibliotecas como jQuery e Bootstrap.<br>
 
-🛠️- Uso frequente de ferramentas como Git, Postman, Visual Studio e VS Code para desenvolvimento e teste de software.<br>
-
-📚- Pretendo aprofundar em Angular, TypeScript, Microsserviços, Azure, Docker, Kubernetes e RabbitMQ. Além disso, busco explorar as tecnologias da Web3, como contratos inteligentes e blockchain, enquanto aprimoro minhas soft skills para uma abordagem mais completa no desenvolvimento.
-<br>
-<br>
-
+📚- Pretendo aprofundar meus conhecimentos em Angular, TypeScript, Microsserviços, Azure, Docker, Kubernetes e RabbitMQ. Além disso, busco explorar as tecnologias da Web3, como contratos inteligentes e blockchain, enquanto aprimoro minhas soft skills para uma abordagem mais completa no desenvolvimento.
 
 &nbsp;
 &nbsp;
 
-## Minhas Principais Habilidades
+## Principais Habilidades Técnicas
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white)
@@ -33,7 +28,7 @@
 ![Dapper](https://img.shields.io/badge/-Dapper-007ACC?style=flat-square&logo=dapper&logoColor=white)
 ![Identity](https://img.shields.io/badge/-Identity-512BD4?style=flat-square&logo=.net&logoColor=white)
 
-## Boas Práticas
+## Boas Práticas e Agile
 ![SOLID](https://img.shields.io/badge/-SOLID-008080?style=flat-square)
 ![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-333333?style=flat-square)
 ![Clean Code](https://img.shields.io/badge/-Clean%20Code-008080?style=flat-square)
@@ -46,10 +41,12 @@
 ## Ferramentas
 ![Visual Studio/VS Code](https://img.shields.io/badge/-Visual%20Studio%2FVS%20Code-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+[![FileZilla](https://img.shields.io/badge/-FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white)](https://filezilla-project.org/)
 ![NoSQLBooster](https://img.shields.io/badge/-NoSQLBooster-4DB33D?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+[![Azure Data Studio](https://img.shields.io/badge/-Azure%20Data%20Studio-0078D4?style=flat-square&logo=azure-data-studio&logoColor=white)](https://docs.microsoft.com/en-us/sql/azure-data-studio/)
 
 
 ## Planos de Estudos Futuro
