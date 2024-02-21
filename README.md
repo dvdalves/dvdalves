@@ -1,15 +1,15 @@
-💻- Desenvolvedor Backend<strong>.NET/C#</strong>
+💻- Backend Developer<strong>.NET/C#</strong>
 
-📊- Experiência em bancos de dados relacionais, SQL Server, SQLite, e não relacionais, MongoDB.
+📊- Experience with relational databases, SQL Server, SQLite, and non-relational databases, MongoDB.
 
-🌐- Habilidades em desenvolvimento frontend, incluindo HTML, CSS, JavaScript, e bibliotecas como jQuery e Bootstrap.<br>
+🌐- Frontend development skills, including HTML, CSS, JavaScript, and libraries like jQuery and Bootstrap.<br>
 
-📚- Pretendo aprofundar meus conhecimentos em Angular, TypeScript, Microsserviços, Azure, Docker, Kubernetes e RabbitMQ. Além disso, busco explorar as tecnologias da Web3, como contratos inteligentes e blockchain, enquanto aprimoro minhas soft skills para uma abordagem mais completa no desenvolvimento.
+📚- I aim to deepen my knowledge in Angular, TypeScript, Microservices, Azure, Docker, Kubernetes, and RabbitMQ. Additionally, I'm looking to explore Web3 technologies such as smart contracts and blockchain, while enhancing my soft skills for a more comprehensive approach to development.
 
 &nbsp;
 &nbsp;
 
-## Principais Habilidades Técnicas
+## Key Technical Skills
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![Web API](https://img.shields.io/badge/-Web%20API-512BD4?style=flat-square&logo=.net&logoColor=white)
@@ -28,7 +28,7 @@
 ![Identity](https://img.shields.io/badge/-Identity-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![Dapper](https://img.shields.io/badge/-Dapper-007ACC?style=flat-square&logo=dapper&logoColor=white)
 
-## Boas Práticas e Agile
+## Best Practices and Agile
 ![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-333333?style=flat-square)
 ![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-333333?style=flat-square)
 ![Clean Code](https://img.shields.io/badge/-Clean%20Code-008080?style=flat-square)
@@ -38,7 +38,7 @@
 ![Scrum](https://img.shields.io/badge/-Scrum-5849BE?style=flat-square)
 ![Kanban](https://img.shields.io/badge/-Kanban-008080?style=flat-square)
 
-## Ferramentas
+## Tools
 ![Visual Studio/VS Code](https://img.shields.io/badge/-Visual%20Studio%2FVS%20Code-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 [![FileZilla](https://img.shields.io/badge/-FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white)](https://filezilla-project.org/)
@@ -49,7 +49,7 @@
 [![Azure Data Studio](https://img.shields.io/badge/-Azure%20Data%20Studio-0078D4?style=flat-square&logo=azure-data-studio&logoColor=white)](https://docs.microsoft.com/en-us/sql/azure-data-studio/)
 
 
-## Planos de Estudos Futuro
+## Future Study Plans
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -60,7 +60,7 @@
 ![Web3](https://img.shields.io/badge/-Web3-8B57D9?style=flat-square&logo=ethereum&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
 
-### Vamos nos conectar?
+### Let's connect?
 <div>
   <a href="https://www.linkedin.com/in/dvdalves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
