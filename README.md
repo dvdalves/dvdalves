@@ -15,9 +15,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 <br>
+![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat-square)
 ![Unit Tests](https://img.shields.io/badge/-Unit%20Tests-008080?style=flat-square)
 ![Integration Tests](https://img.shields.io/badge/-Integration%20Tests-008080?style=flat-square)
 <br>
