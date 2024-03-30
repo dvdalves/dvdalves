@@ -2,18 +2,17 @@
 
 📊- Experience with relational databases, SQL Server, SQLite, and non-relational databases, MongoDB.
 
-🌐- Frontend development skills, including HTML, CSS, JavaScript, and libraries like jQuery and Bootstrap.<br>
+🌐- Frontend development skills, including Angular, Typescript, HTML, CSS, JavaScript, and libraries like jQuery and Bootstrap.<br>
 
-📚- I aim to deepen my knowledge in Angular, TypeScript, Azure and System Architecture. Additionally, I'm looking to explore Web3 technologies such as smart contracts and blockchain, while enhancing my soft skills for a more comprehensive approach to development.
+📚- I aim to deepen my knowledge in Azure and System Architecture. Additionally, I'm looking to explore Web3 technologies such as smart contracts and blockchain, while enhancing my soft skills for a more comprehensive approach to development.
 &nbsp;
 ## Key Technical Skills
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Web API](https://img.shields.io/badge/-Web%20API-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![MVC](https://img.shields.io/badge/-MVC-008080?style=flat-square&logo=.net&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-4479A1?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 <br>
 ![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -25,6 +24,10 @@
 ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+<br>
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-4479A1?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 &nbsp;
 ## Frameworks
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
@@ -60,11 +63,7 @@
 [![Azure Data Studio](https://img.shields.io/badge/-Azure%20Data%20Studio-0078D4?style=flat-square&logo=azure-data-studio&logoColor=white)](https://docs.microsoft.com/en-us/sql/azure-data-studio/)
 &nbsp;
 ## Future Study Plans
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-<br>
 ![Web3](https://img.shields.io/badge/-Web3-8B57D9?style=flat-square&logo=ethereum&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
 ![System Architecture](https://img.shields.io/badge/-System%20Architecture-333333?style=flat-square)
