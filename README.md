@@ -7,10 +7,10 @@
 📚- I aim to deepen my knowledge in Azure and System Architecture. Additionally, I'm looking to explore Web3 technologies such as smart contracts and blockchain, while enhancing my soft skills for a more comprehensive approach to development.
 &nbsp;
 ## Key Technical Skills
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Web API](https://img.shields.io/badge/-Web%20API-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![MVC](https://img.shields.io/badge/-MVC-008080?style=flat-square&logo=.net&logoColor=white)
 <br>
