@@ -19,6 +19,10 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 <br>
+![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+<br>
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-4479A1?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -57,13 +61,10 @@
 [![Azure Data Studio](https://img.shields.io/badge/-Azure%20Data%20Studio-0078D4?style=flat-square&logo=azure-data-studio&logoColor=white)](https://docs.microsoft.com/en-us/sql/azure-data-studio/)
 &nbsp;
 ## Future Study Plans
-![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-<br>
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+<br>
 ![Web3](https://img.shields.io/badge/-Web3-8B57D9?style=flat-square&logo=ethereum&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
 ![System Architecture](https://img.shields.io/badge/-System%20Architecture-333333?style=flat-square)
