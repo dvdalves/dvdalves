@@ -2,21 +2,15 @@
 
 📊- Experience with relational databases, SQL Server, SQLite, and non-relational databases, MongoDB.
 
-🌐- Frontend development skills, including Angular, Typescript, HTML, CSS, JavaScript, and libraries like jQuery and Bootstrap.<br>
+🌐- Frontend development skills, including HTML, CSS, JavaScript, and libraries like jQuery and Bootstrap.<br>
 
 📚- I aim to deepen my knowledge in Azure and System Architecture. Additionally, I'm looking to explore Web3 technologies such as smart contracts and blockchain, while enhancing my soft skills for a more comprehensive approach to development.
 &nbsp;
 ## Key Technical Skills
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Web API](https://img.shields.io/badge/-Web%20API-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![MVC](https://img.shields.io/badge/-MVC-008080?style=flat-square&logo=.net&logoColor=white)
-<br>
-![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Unit Tests](https://img.shields.io/badge/-Unit%20Tests-008080?style=flat-square)
 ![Integration Tests](https://img.shields.io/badge/-Integration%20Tests-008080?style=flat-square)
 <br>
@@ -63,6 +57,12 @@
 [![Azure Data Studio](https://img.shields.io/badge/-Azure%20Data%20Studio-0078D4?style=flat-square&logo=azure-data-studio&logoColor=white)](https://docs.microsoft.com/en-us/sql/azure-data-studio/)
 &nbsp;
 ## Future Study Plans
+![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<br>
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Web3](https://img.shields.io/badge/-Web3-8B57D9?style=flat-square&logo=ethereum&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
