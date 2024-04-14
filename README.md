@@ -2,7 +2,7 @@
 
 📊- Experience with relational databases, SQL Server, SQLite, and non-relational databases, MongoDB.
 
-🌐- Frontend development skills, including HTML, CSS, JavaScript, and libraries like jQuery and Bootstrap.<br>
+🌐- Frontend development skills, including Blazor, HTML, CSS, JavaScript, and libraries like jQuery and Bootstrap.<br>
 
 📚- I aim to deepen my knowledge in Azure and System Architecture. Additionally, I'm looking to explore Web3 technologies such as smart contracts and blockchain, while enhancing my soft skills for a more comprehensive approach to development.
 &nbsp;
@@ -14,6 +14,7 @@
 ![Unit Tests](https://img.shields.io/badge/-Unit%20Tests-008080?style=flat-square)
 ![Integration Tests](https://img.shields.io/badge/-Integration%20Tests-008080?style=flat-square)
 <br>
+![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
@@ -33,6 +34,7 @@
 ![Identity](https://img.shields.io/badge/-Identity-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![Dapper](https://img.shields.io/badge/-Dapper-007ACC?style=flat-square&logo=dapper&logoColor=white)
 <br>
+![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
 ![xUnit](https://img.shields.io/badge/-xUnit-512BD4?style=flat-square)
 ![NUnit](https://img.shields.io/badge/-NUnit-512BD4?style=flat-square)
 ![MSTest](https://img.shields.io/badge/-MSTest-512BD4?style=flat-square)
