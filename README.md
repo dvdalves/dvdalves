@@ -50,17 +50,6 @@
 ![Scrum](https://img.shields.io/badge/-Scrum-5849BE?style=flat-square)
 ![Kanban](https://img.shields.io/badge/-Kanban-008080?style=flat-square)
 &nbsp;
-## Tools
-![Visual Studio/VS Code](https://img.shields.io/badge/-Visual%20Studio%2FVS%20Code-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-[![FileZilla](https://img.shields.io/badge/-FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white)](https://filezilla-project.org/)
-![NoSQLBooster](https://img.shields.io/badge/-NoSQLBooster-4DB33D?style=flat-square)
-<br>
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
-[![Azure Data Studio](https://img.shields.io/badge/-Azure%20Data%20Studio-0078D4?style=flat-square&logo=azure-data-studio&logoColor=white)](https://docs.microsoft.com/en-us/sql/azure-data-studio/)
-&nbsp;
 ## Future Study Plans
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
