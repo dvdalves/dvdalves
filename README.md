@@ -1,6 +1,6 @@
 ## Portfolio
 - Check out my [Blazor portfolio](https://dvdalves.github.io/blazor-portfolio/) for more details.
-the source code of the portfolio in my [GitHub projects](https://github.com/dvdalves/blazor-portfolio).
+The source code of the portfolio in my [GitHub projects](https://github.com/dvdalves/blazor-portfolio).
 
 ## Skills
 - 💻 Backend Developer<strong>.NET/C#</strong>
