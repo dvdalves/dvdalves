@@ -1,12 +1,12 @@
 ## Portfolio
 - Check out my [Blazor portfolio](https://dvdalves.github.io/blazor-portfolio/) for more details.
-- Check out the source code of the portfolio in my [GitHub projects](https://github.com/dvdalves/blazor-portfolio).
+the source code of the portfolio in my [GitHub projects](https://github.com/dvdalves/blazor-portfolio).
 
 ## Skills
 - 💻 Backend Developer<strong>.NET/C#</strong>
 - 📊 Experience with relational databases, SQL Server, SQLite, and non-relational databases, MongoDB.
-- 🌐 Frontend development skills, including Blazor, ASP.NET MVC & Razor, HTML, CSS, JavaScript, and libraries like jQuery and Bootstrap.
-- 📚 I aim to deepen my knowledge in Azure, TypeScript, and Angular. Additionally, I'm looking to explore Web3 technologies such as smart contracts and blockchain, while enhancing my soft skills for a more comprehensive approach to development.
+- 🌐 Frontend development skills, including Blazor, ASP.NET MVC & Razor, HTML, CSS, JavaScript and libraries like jQuery and Bootstrap.
+- 📚 I aim to deepen my knowledge in Azure, TypeScript and Angular. Additionally, I'm looking to explore Web3 technologies such as smart contracts and blockchain, while enhancing my soft skills for a more comprehensive approach to development.
 &nbsp;
 ## Key Technical Skills
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
