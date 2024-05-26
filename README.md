@@ -9,12 +9,12 @@ The source code of the portfolio in my [GitHub projects](https://github.com/dvda
 - 📚 I aim to deepen my knowledge in Azure, TypeScript and Angular. Additionally, I'm looking to explore Web3 technologies such as smart contracts and blockchain, while enhancing my soft skills for a more comprehensive approach to development.
 &nbsp;
 ## Key Technical Skills
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![Web API](https://img.shields.io/badge/-Web%20API-512BD4?style=flat-square&logo=.net&logoColor=white)
-![MVC](https://img.shields.io/badge/-MVC-008080?style=flat-square&logo=.net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
 ![Razor](https://img.shields.io/badge/-Razor-512BD4?style=flat-square&logo=razor&logoColor=white)
+![MVC](https://img.shields.io/badge/-MVC-008080?style=flat-square&logo=.net&logoColor=white)
 <br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
