@@ -7,7 +7,6 @@ The source code of the portfolio in my [GitHub projects](https://github.com/dvda
 - 📊 Databases: Experience with relational databases (SQL Server, PostgreSQL, MySQL) and non-relational databases (MongoDB), using tools like Entity Framework, Dapper, and CQRS.
 - 🌐 Frontend Development: Skills in Angular, TypeScript, Blazor, ASP.NET MVC & Razor, HTML, CSS, JavaScript, and libraries like jQuery and Bootstrap.
 - ☁️ Cloud (Azure): App Services, Functions, Storage, SQL Database, Key Vault, and monitoring with Azure Monitor.
-- 📚 I'm looking to explore Web3 technologies such as smart contracts and blockchain, while enhancing my soft skills for a more comprehensive approach to development.
 &nbsp;
 ## Key Technical Skills
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -61,12 +60,6 @@ The source code of the portfolio in my [GitHub projects](https://github.com/dvda
 ![Scrum](https://img.shields.io/badge/-Scrum-5849BE?style=flat-square)
 ![Kanban](https://img.shields.io/badge/-Kanban-008080?style=flat-square)
 ![SOLID](https://img.shields.io/badge/-SOLID-008080?style=flat-square)
-
-## Future Study Plans
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Web3](https://img.shields.io/badge/-Web3-8B57D9?style=flat-square&logo=ethereum&logoColor=white)
-![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-&nbsp;
 
 ### Let's connect?
 <div>
