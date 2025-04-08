@@ -2,12 +2,6 @@
 - Check out my [Blazor portfolio](https://dvdalves.github.io/blazor-portfolio/) for more details.
 The source code of the portfolio in my [GitHub projects](https://github.com/dvdalves/blazor-portfolio).
 
-## Skills
-- 💻 Backend Developer: .NET/C#, microservices development, messaging with RabbitMQ, and CI/CD automation with Azure DevOps, GitHub Actions, and Docker./C#</strong>
-- 📊 Databases: Experience with relational databases (SQL Server, PostgreSQL, MySQL) and non-relational databases (MongoDB), using tools like Entity Framework, Dapper, and CQRS.
-- 🌐 Frontend Development: Skills in Angular, TypeScript, Blazor, ASP.NET MVC & Razor, HTML, CSS, JavaScript, and libraries like jQuery and Bootstrap.
-- ☁️ Cloud (Azure): App Services, Functions, Storage, SQL Database, Key Vault, and monitoring with Azure Monitor.
-&nbsp;
 ## Key Technical Skills
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
