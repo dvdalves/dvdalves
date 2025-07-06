@@ -1,6 +1,6 @@
-# David Alves | Software Developer
+# Hi 👋
 
-I'm a Software Developer with experience in the .NET ecosystem, focused on building full-stack applications, microservices, and cloud-optimized solutions.
+My name is David Alves and I'm a Software Developer with experience in the .NET ecosystem, focused on building full-stack applications, microservices, and cloud-optimized solutions.
 
 ---
 
