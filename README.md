@@ -1,6 +1,5 @@
-<!-- Banner / Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=David%20Alves&fontSize=40&fontAlign=50&fontColor=fff" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=David%20Alves&fontSize=70&fontAlign=50&fontColor=fff" alt="banner"/>
 </p>
 
 <p align="center">
@@ -15,12 +14,8 @@
   </a>
 </p>
 
----
-
-<h2 align="center">👋 Hi, I'm David Alves!</h2>
-
 <p align="center">
-  Software Developer passionate about technology, specialist in the .NET ecosystem, focused on full-stack applications, microservices, and cloud solutions.
+  Software Engineer passionate about technology, specializing in the .NET ecosystem and focused on full-stack applications, microservices, and cloud solutions.
 </p>
 
 ---
