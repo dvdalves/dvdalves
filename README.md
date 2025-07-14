@@ -6,11 +6,11 @@
   <a href="https://www.linkedin.com/in/dvdalves/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://dvdalves.github.io/blazor-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF8800?style=for-the-badge&logo=logoColor=white"/>
+  <a href="https://dvdalves.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=logoColor=white"/>
   </a>
     <a href="https://utilhub.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/UtilHub-black?style=for-the-badge&logo=logoColor=white"/>
+    <img src="https://img.shields.io/badge/UtilHub-blue?style=for-the-badge&logo=logoColor=white"/>
   </a>
 </p>
 
@@ -23,7 +23,6 @@
 ## 🚀 Featured Projects
 
 - <b>[UtilHub](https://utilhub.com.br/)</b>: Creator and maintainer of UtilHub, a web utility portal built with .NET and hosted on Azure.
-- <b>[Blazor Portfolio](https://dvdalves.github.io/blazor-portfolio/)</b>: Check out my interactive portfolio built with Blazor ([source code](https://github.com/dvdalves/blazor-portfolio)).
 
 ---
 
@@ -87,10 +86,3 @@
 </td>
 </tr>
 </table>
-
-
----
-
-<p align="center">
-  <sub>Made with ❤️ by David Alves</sub>
-</p>
