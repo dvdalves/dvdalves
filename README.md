@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=logoColor=white"/>
   </a>
     <a href="https://utilhub.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/UtilHub-blue?style=for-the-badge&logo=logoColor=white"/>
+    <img src="https://img.shields.io/badge/UtilHub-navy?style=for-the-badge&logo=logoColor=white"/>
   </a>
 </p>
 
