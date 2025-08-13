@@ -30,7 +30,7 @@
 
 <table>
 <tr>
-<td><b>Frameworks & Programming Languages</b></td>
+<td><b>Languages & Core Tools</b></td>
 <td>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
@@ -56,7 +56,7 @@
 </td>
 </tr>
 <tr>
-<td><b>Frontend</b></td>
+<td><b>Frontend & User Interface</b></td>
 <td>
 <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white"/>
 
@@ -71,12 +71,12 @@
 <td>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=azure&logoColor=white"/>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI/CD-333333?style=flat-square"/>
 <img src="https://img.shields.io/badge/Microservices-333333?style=flat-square"/>
 <img src="https://img.shields.io/badge/Clean%20Architecture-333333?style=flat-square"/>
 <img src="https://img.shields.io/badge/Keycloak-2a2a2a?style=flat-square&logo=keycloak&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI/CD-333333?style=flat-square"/>
 <img src="https://img.shields.io/badge/xUnit-512BD4?style=flat-square"/>
 <img src="https://img.shields.io/badge/NUnit-512BD4?style=flat-square"/>
 <img src="https://img.shields.io/badge/MSTest-512BD4?style=flat-square"/>
