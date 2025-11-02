@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=David%20Alves&fontSize=70&fontAlign=50&fontColor=fff" alt="banner"/>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/dvdalves/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
