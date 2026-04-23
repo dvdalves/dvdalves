@@ -5,9 +5,6 @@
   <a href="https://dvdalves.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=logoColor=white"/>
   </a>
-    <a href="https://utilhub.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/UtilHub-navy?style=for-the-badge&logo=logoColor=white"/>
-  </a>
 </p>
 
 <p align="center">
@@ -17,6 +14,8 @@
 ---
 
 ## 🚀 Featured Projects
+
+- **[Arquitetura de Software Pro](https://play.google.com/store/apps/details?id=com.dvdalves.dominearquitetura)**: PT-BR only. Interactive guide for System Design and scalable systems, featuring learning paths on Microservices, DDD, OAuth2, and Resilience.
 
 - <b>[UtilHub](https://utilhub.com.br/)</b>: Creator and maintainer of UtilHub, a web utility portal built with .NET and hosted on Azure.
 
@@ -29,7 +28,6 @@
 <td><b>Languages & Core Tools</b></td>
 <td>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -52,12 +50,13 @@
 </td>
 </tr>
 <tr>
-<td><b>Frontend & User Interface</b></td>
+<td><b>Frontend & Mobile</b></td>
 <td>
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Razor-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
 </td>
@@ -74,8 +73,6 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/CI/CD-333333?style=flat-square"/>
 <img src="https://img.shields.io/badge/xUnit-512BD4?style=flat-square"/>
-<img src="https://img.shields.io/badge/NUnit-512BD4?style=flat-square"/>
-<img src="https://img.shields.io/badge/MSTest-512BD4?style=flat-square"/>
 <img src="https://img.shields.io/badge/TDD-008080?style=flat-square"/>
 <img src="https://img.shields.io/badge/SOLID-008080?style=flat-square"/>
 <img src="https://img.shields.io/badge/DDD-007ACC?style=flat-square"/>
