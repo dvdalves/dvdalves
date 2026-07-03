@@ -8,13 +8,19 @@
 </p>
 
 <p align="center">
-  Software Engineer passionate about technology, specializing in the .NET ecosystem and focused on full-stack applications, microservices, and cloud solutions.
+  Software Engineer specializing in Software Architecture, Application Design, and the .NET ecosystem. Experienced in designing scalable distributed systems, microservices, and cloud-native solutions.
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Architecture & Design Expertise
+
+* **Architectural Styles:** Microservices, Event-Driven Architecture, Clean Architecture, Monoliths.
+* **Design Principles:** DDD (Domain-Driven Design), SOLID, Design Patterns, CQRS.
+* **Quality Attributes:** Scalability, Resilience, Security, Observability.
+
+---
+
+## Featured Projects
 
 - **[Arquitetura de Software Pro](https://play.google.com/store/apps/details?id=com.dvdalves.dominearquitetura)**: PT-BR only. Interactive guide for System Design and scalable systems, featuring learning paths on Microservices, DDD, OAuth2, and Resilience.
-
-- <b>[UtilHub](https://utilhub.com.br/)</b>: Creator and maintainer of UtilHub, a web utility portal built with .NET and hosted on Azure.
