@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  Software Engineer with experience in the .NET ecosystem, distributed systems, and cloud infrastructure. Focused on building reliable backend services, microservices, and robust cloud solutions.
+  Software Engineer with experience in the .NET ecosystem, distributed systems, and cloud infrastructure. Focused on building reliable backend services, microservices and scalable cloud solutions.
 </p>
