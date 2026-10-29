@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  Software Engineer specializing in Software Architecture, Application Design, and the .NET ecosystem. Experienced in designing scalable distributed systems, microservices, and cloud-native solutions.
+  Software Engineer with experience in the .NET ecosystem, distributed systems, and cloud infrastructure. Focused on building reliable backend services, microservices, and robust cloud solutions.
 </p>
